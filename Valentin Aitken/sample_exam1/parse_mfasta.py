@@ -12,5 +12,3 @@ def dic_mfasta(filepath) -> dict:
                     result[current_key] = current
         return result
     return None
-
-print(dic_mfasta("mfasta.txt"))

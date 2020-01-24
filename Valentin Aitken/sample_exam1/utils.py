@@ -5,3 +5,4 @@ def calc_freqs(dna_sequence):
             freqs[s] += 1
         else:
             freqs[s] = 1
+    return freqs
