@@ -21,7 +21,7 @@ class SequenceParser:
         else:
             raise ValueError("No such seq_type %s" % seq_type)
         seq.parse(content)
-        seq.print()
+        return seq
 
 
 def main():
