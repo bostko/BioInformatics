@@ -33,10 +33,15 @@ class NcbiCache:
     def get_memory(self, url):
         return self.memory_cache_client.get(url)
 
+    def get_pubmed(self, id):
+        pass
+
 
 def main():
     r = redis.Redis(host='localhost', port=6379, db=0)
     r.set('foo', 'bar')
+    r.hset('summary')
+    r.hmset()
     print(r.get('foo'))
     app = web.application(urls, globals())
     app.run()
