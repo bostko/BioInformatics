@@ -28,3 +28,18 @@ https://www.ncbi.nlm.nih.gov/books/NBK25500/#chapter1.Searching_a_Database
 etcd key value DB 
 https://buildmedia.readthedocs.org/media/pdf/etcd/latest/etcd.pdf
 https://etcd.io/docs/v3.3.12/learning/client-architecture/
+
+
+# Hints
+
+https://www.itu.int/en/ITU-T/asn1/Pages/introduction.aspx
+
+https://dataguide.nlm.nih.gov/edirect/efetch.html
+
+https://www.ncbi.nlm.nih.gov/books/NBK25499/
+
+https://wiki.python.org/moin/HandlingExceptions
+
+https://flask.palletsprojects.com/en/1.1.x/quickstart/#static-files
+
+https://docs.python.org/3/library/typing.html
